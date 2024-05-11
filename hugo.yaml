@@ -1,0 +1,71 @@
+baseURL: 'https://blog.kxqdesign.com/'
+languageCode: 'en-us'
+title: '✧㋛✧ Kong''s Blog' 
+theme: 'PaperMod'
+
+enableInlineShortcodes: true #允许内联短码
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: search
+      weight: 1
+
+    - identifier: archives
+      name: archives
+      url: archives/
+      weight: 2
+
+params:
+  homeInfoParams:
+    Title: Hi there ¯_(ツ)_/¯ 
+    Content: | 
+      知之者不如好之者，好之者不如乐之者  ——[《论语》](https://www.8bei8.com/book/lunyu.html)
+      
+      Knowing is not enough; we must apply. Willing is not enough; we must do.
+      
+  author: XQK
+  # author: ["Me", "You"] # multiple authors
+  defaultTheme: auto  # defaultTheme: light or  dark 
+  disableThemeToggle: false
+  DateFormat: "2006-01-02"
+  ShowShareButtons: false
+  ShowReadingTime: true
+  # disableSpecialistPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideFooter: false # 隐藏页脚
+  ShowWordCounts: true
+  VisitCount: true
+
+  ShowLastMod: true #显示文章更新时间
+
+  ShowToc: true # 显示目录
+  TocOpen: true # 自动展开目录
+
+  comments: true
+
+  # socialIcons: # optional
+  #   - name: "<platform>"
+  #     url: "<link>"
+  #   - name: "<platform 2>"
+  #     url: "<link2>"
+
+  # assets:
+  #   favicon: "img/logo.gif"
+  #   favicon16x16: "img/logo.gif"
+  #   favicon32x32: "img/logo.gif"
+  #   apple_touch_icon: "logo.gif"
+  #   safari_pinned_tab: "logo.gif"

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>XQK Blog</title>
-    <link>https://kxqdesign.com/</link>
-    <description>Recent content on XQK Blog</description>
+    <title>✧㋛✧ Kong&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ✧㋛✧ Kong&#39;s Blog</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 May 2024 10:32:20 +0100</lastBuildDate>
-    <atom:link href="https://kxqdesign.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://kxqdesign.com/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 11 May 2024 10:32:20 +0100</pubDate>
-      <guid>https://kxqdesign.com/posts/hello-world/</guid>
-      <description>Hello World This is bold test this is italics
-2nd level 3rd level </description>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>Hello World figure size test This is my first test markdown This is long text test This is long text test This is long text test This is long text test This is long text test This is long text test This is bold , this is italics. 测试一下中文 2nd level this is a link test 3rd level</description>
     </item>
   </channel>
 </rss>
