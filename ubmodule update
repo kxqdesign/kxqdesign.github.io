@@ -1,0 +1,20 @@
+[33m1e9e6f4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: cleanDestinationDir
+[33m8d7f80c[m HEAD@{1}: pull: Merge made by the 'ort' strategy.
+[33ma064e93[m HEAD@{2}: commit: baseURL change
+[33m05e29ba[m HEAD@{3}: commit: try to solve the inconsistency of local and onlin
+[33mc553af1[m HEAD@{4}: commit: change baseURL
+[33m02509d6[m HEAD@{5}: commit: papermod setting
+[33m16e4417[m HEAD@{6}: commit (merge): change blog name
+[33mb2bc48a[m HEAD@{7}: commit: change blog name
+[33me27beda[m HEAD@{8}: commit: publishing posts
+[33md35aea6[m HEAD@{9}: commit: publishing posts
+[33m8cffd02[m HEAD@{10}: commit: github actions
+[33m011e959[m HEAD@{11}: commit (amend): first commit
+[33m0212a1f[m HEAD@{12}: commit (amend): first commit
+[33m6bf3d9a[m HEAD@{13}: commit (amend): first commit
+[33mbe2815e[m HEAD@{14}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbe2815e[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbe2815e[m HEAD@{18}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbe2815e[m HEAD@{20}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbe2815e[m HEAD@{22}: commit: first commit
+[33m5ce01d1[m HEAD@{23}: commit (initial): Initial commit
