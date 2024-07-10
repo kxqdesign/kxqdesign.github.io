@@ -69,3 +69,9 @@ params:
   #   favicon32x32: "img/logo.gif"
   #   apple_touch_icon: "logo.gif"
   #   safari_pinned_tab: "logo.gif"
+
+  utteranc:
+    enable: true
+    repo: "kxqdesign/kxqdesign.github.io" 
+    issueTerm: "title"
+    theme: "github-light"  
