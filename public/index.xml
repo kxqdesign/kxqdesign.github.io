@@ -6,14 +6,14 @@
     <description>Recent content on ✧㋛✧ Kong&#39;s Blog</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 10:32:20 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 21:50:51 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 11 May 2024 10:32:20 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Hello World figure size test This is my first test markdown This is long text test This is long text test This is long text test This is long text test This is long text test This is long text test This is bold , this is italics. 测试一下中文 2nd level this is a link test 3rd level</description>
+      <title>如何使用word模版准备提交版论文</title>
+      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Sat, 07 Sep 2024 21:50:51 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</guid>
+      <description>1. 按照官方模版设置样式 设置样式时可以在&amp;ldquo;视图&amp;rdquo;-&amp;gt;&amp;ldquo;草稿&amp;rdquo;模式中操作，比较方便查看内容</description>
     </item>
   </channel>
 </rss>
