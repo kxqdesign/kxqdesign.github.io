@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ✧㋛✧ Kong&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://kxqdesign.github.io/posts/</link>
     <description>Recent content in Posts on ✧㋛✧ Kong&#39;s Blog</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2024 21:50:51 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kxqdesign.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何使用word模版准备提交版论文</title>
-      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</link>
+      <link>https://kxqdesign.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</link>
       <pubDate>Sat, 07 Sep 2024 21:50:51 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</guid>
+      <guid>https://kxqdesign.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8word%E6%A8%A1%E7%89%88%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4%E7%89%88%E8%AE%BA%E6%96%87/</guid>
       <description>1. 按照官方模版设置样式 设置样式时可以在&amp;ldquo;视图&amp;rdquo;-&amp;gt;&amp;ldquo;草稿&amp;rdquo;模式中操作，比较方便查看内容</description>
     </item>
   </channel>
