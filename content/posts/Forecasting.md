@@ -10,7 +10,7 @@ However, the desire to forecast was not always welcomed. In some periods, it was
 
 > Forecasters had a tougher time under the emperor Constantius II, who issued a decree in AD357 forbidding anyone "to consult a soothsayer, a mathematician, or a forecaster ... May curiosity to foretell the future be silenced forever." [^1] A similar ban on forecasting occurred in England in 1824 [^2] when "every person pretending or professing to tell fortunes" was "deemed a rogue and vagabond". The punishment was up to three months' imprisonment with hard labour!
 
-In contrast, modern forecasting is vastly different. Today, it is a scientific tool applied across many areas, such as business, economics, politics, and environmental planning. Accurate forecasts are essential for making informed decisions, guiding strategies, and managing resources. No longer dismissed as mystical or forbidden, forecasting has evolved into a sophisticated field powered by mathematics and advanced technology.
+In contrast, modern forecasting is vastly different. Today, it is a scientific tool applied across many areas, such as business, economics, politics, traffic and environmental planning. Accurate forecasts are essential for making informed decisions, guiding strategies, and managing resources. No longer dismissed as mystical or forbidden, forecasting has evolved into a sophisticated field powered by mathematics and advanced technology.
 
 **At its core, humanity's fascination with forecasting stems from an intrinsic drive for knowledge, security, control, and prosperity.**
 
