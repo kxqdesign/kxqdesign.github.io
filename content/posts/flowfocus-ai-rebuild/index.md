@@ -1,5 +1,5 @@
 ---
-title: '一年后我用 AI编程更新了 FlowFocus：2025 年没做成的事，现在一次对话就解决了'
+title: 'FlowFocus更新，增加预置日历和云同步功能'
 date: 2026-07-12T23:59:00+08:00
 summary: '一年前，我用 AI 给 FlowFocus 接入云同步，三天后却把项目写崩了。一年后，同样的功能终于做成了。AI 变强了，我和它协作的方式也变了。'
 tags: ['AI 编程', '产品设计', 'FlowFocus', 'AI 造物指南']
@@ -216,4 +216,6 @@ AI 让实现越来越容易。而我们也要提出更好的问题，做出更�
 
 ---
 
-> 本文首发于微信公众号，[阅读原文](https://mp.weixin.qq.com/s/SOtBNXijk5NPUTl12Jro_g)。
+> 本文首发于微信公众号「设计大爆炸」，[阅读原文](https://mp.weixin.qq.com/s/SOtBNXijk5NPUTl12Jro_g)。
+
+{{< figure src="qrcode.jpg" alt="设计大爆炸 公众号二维码" caption="扫码关注「设计大爆炸」" width="180" align="center" >}}

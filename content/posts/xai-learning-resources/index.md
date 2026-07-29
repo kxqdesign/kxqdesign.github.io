@@ -1,5 +1,5 @@
 ---
-title: '我整理了一份2026年XAI可解释人工智能学习资源，研究可解释性不只有SHAP和LIME'
+title: '2026年XAI可解释人工智能学习资源'
 date: 2026-07-23T21:27:00+08:00
 summary: '搜索“XAI 入门”，排在最前面的往往还是 SHAP 和 LIME。但今天的可解释 AI 至少在问四个不同的问题。与其收集所有资源，不如先选定自己的问题，再挑路线。'
 tags: ['XAI', '可解释性', '机制可解释性', '学习资源']
@@ -150,4 +150,6 @@ LessWrong 和 Alignment Forum 之间存在内容交叉，有些文章会同时�
 
 ---
 
-> 本文首发于微信公众号，[阅读原文](https://mp.weixin.qq.com/s/Bz0-90-RuAw2ahPGLHr6eg)。
+> 本文首发于微信公众号「XAI小探」，[阅读原文](https://mp.weixin.qq.com/s/Bz0-90-RuAw2ahPGLHr6eg)。
+
+{{< figure src="qrcode.jpg" alt="XAI小探 公众号二维码" caption="扫码关注「XAI小探」" width="180" align="center" >}}
