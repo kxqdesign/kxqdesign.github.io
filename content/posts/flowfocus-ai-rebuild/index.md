@@ -1,5 +1,5 @@
 ---
-title: 'FlowFocus更新，增加预置日历和云同步功能'
+title: 'FlowFocus更新预置日历和云同步功能'
 date: 2026-07-12T23:59:00+08:00
 summary: '一年前，我用 AI 给 FlowFocus 接入云同步，三天后却把项目写崩了。一年后，同样的功能终于做成了。AI 变强了，我和它协作的方式也变了。'
 tags: ['AI 编程', '产品设计', 'FlowFocus', 'AI 造物指南']

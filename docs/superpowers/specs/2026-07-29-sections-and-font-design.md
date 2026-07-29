@@ -9,7 +9,7 @@
 
 | 文章 | 日期 | 性质 |
 | --- | --- | --- |
-| FlowFocus更新，增加预置日历和云同步功能 | 2026-07-12 | 产品 / AI 编程（设计大爆炸） |
+| FlowFocus更新预置日历和云同步功能 | 2026-07-12 | 产品 / AI 编程（设计大爆炸） |
 | 2026年XAI可解释人工智能学习资源 | 2026-07-23 | 研究（XAI小探） |
 | Forecasting: Getting Started | 2024-11-14 | 研究 |
 | 如何使用word模版准备提交版论文 | 2024-09-07 | 学术工具 |
@@ -134,7 +134,7 @@ menu:
 # content/research/_index.md
 ---
 title: 'research'
-description: '可解释性、预测，以及做研究本身的方法与工具。'
+description: '研究以及做研究的道术器'
 ---
 ```
 
@@ -142,7 +142,7 @@ description: '可解释性、预测，以及做研究本身的方法与工具。
 # content/making/_index.md
 ---
 title: 'making'
-description: '用 AI 把想法做成能用的东西：产品、工具，以及过程中的取舍。'
+description: '把想法做成能用的东西：产品、工具，以及过程中的取舍。'
 ---
 ```
 
