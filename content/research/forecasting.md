@@ -1,6 +1,8 @@
 ---
 title: 'Forecasting: Getting Started'
 date: 2024-11-14T21:50:51+08:00
+aliases:
+  - /posts/forecasting/
 ---
 ### The Historical Roots of Forecasting
 

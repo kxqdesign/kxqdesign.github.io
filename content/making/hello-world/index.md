@@ -2,10 +2,10 @@
 title: 'Hello World'
 date: 2024-05-11T10:32:20+01:00
 cover:
-    image: "posts/hello-world/testfigure.webp" #图片路径
-    caption: "" #图片底部描述
+    image: "testfigure.webp"
+    caption: ""
     alt: ""
-    relative: false
+    relative: true
 draft: true
 ---
 
