@@ -7,3 +7,17 @@ body {
     -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
     'Microsoft YaHei', sans-serif;
 }
+
+/* ZeoSeven endpoint 442 ships weight 400 only, so anything bold is synthesised
+   by the browser. Headings use size for hierarchy instead.
+   .post-title and .post-content h1-h6 set only size and margins in the theme -
+   their bold comes from the browser's UA stylesheet, so it must be overridden
+   explicitly. .logo a does set font-weight:700 (header.css:25). */
+.post-title,
+.post-content h1, .post-content h2, .post-content h3,
+.post-content h4, .post-content h5, .post-content h6,
+.entry-header h2,
+.first-entry .entry-header h1,
+.logo a {
+  font-weight: 400;
+}
