@@ -1,0 +1,9 @@
+/* Loaded after the theme's core CSS (head.html concatenates license + core + extended),
+   so this wins over reset.css at equal specificity - no !important needed.
+   System fonts stay in the stack: if ZeoSeven is unreachable the site degrades to its
+   previous appearance rather than breaking. */
+body {
+  font-family: "Maple Mono NF CN",
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+    'Microsoft YaHei', sans-serif;
+}
