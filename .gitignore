@@ -1,0 +1,4 @@
+# Hugo's resource cache. Regenerated on every build, and `hugo --gc` actively
+# deletes entries it considers unused - so tracking it produces spurious diffs
+# and files that vanish on an unrelated build.
+/resources/_gen/

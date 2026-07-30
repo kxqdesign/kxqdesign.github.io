@@ -14,6 +14,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+# PaperMod's search page fetches /index.json; without this the home page never
+# emits JSON and the search box silently returns nothing.
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 
 menu:
   main:
