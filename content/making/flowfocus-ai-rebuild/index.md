@@ -3,10 +3,6 @@ title: 'FlowFocus更新预置日历和云同步功能'
 date: 2026-07-12T23:59:00+08:00
 summary: '一年前，我用 AI 给 FlowFocus 接入云同步，三天后却把项目写崩了。一年后，同样的功能终于做成了。AI 变强了，我和它协作的方式也变了。'
 tags: ['AI 编程', '产品设计', 'FlowFocus', 'AI 造物指南']
-cover:
-  image: 'cover.jpg'
-  alt: 'FlowFocus 年度视图'
-  relative: true
 ---
 去年，我写了一篇文章，记录自己如何借助 AI 编程，从零做出了第一个小产品 FlowFocus [AI 编程完成的第一个小产品 FlowFocus 上线！从想法到产品，我学到了这些。](https://mp.weixin.qq.com/s?__biz=MzU0MTg4NTYzMw==&mid=2247485779&idx=1&sn=ae7b2cc78f481f213aa8f0e222cb835f&scene=21#wechat_redirect)
 
