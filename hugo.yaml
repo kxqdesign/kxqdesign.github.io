@@ -17,17 +17,29 @@ buildExpired: false
 
 menu:
   main:
-    - identifier: search
-      name: search
-      url: search
+    - identifier: research
+      name: research
+      url: /research/
       weight: 1
+
+    - identifier: making
+      name: making
+      url: /making/
+      weight: 2
 
     - identifier: archives
       name: archives
       url: archives/
-      weight: 2
+      weight: 3
+
+    - identifier: search
+      name: search
+      url: search
+      weight: 4
 
 params:
+  mainSections: ["research"]
+  ShowAllPagesInArchive: true
   homeInfoParams:
     Title: Hi there ¯_(ツ)_/¯ 
     Content: | 
