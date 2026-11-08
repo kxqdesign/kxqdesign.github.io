@@ -68,6 +68,8 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideFooter: false # 隐藏页脚
+  footer:
+    text: "Also building [flowfocus.space](https://flowfocus.space)"
   ShowWordCounts: true
   VisitCount: true
 
