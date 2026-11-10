@@ -1,0 +1,84 @@
+/* /about/ page only. Colours come from the theme's variables, so light and dark
+   both follow the theme toggle. */
+.about-works ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.about-works li {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 18px;
+  align-items: center;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+}
+
+/* Name on its own line, description under it. */
+.about-works li strong {
+  display: block;
+  font-weight: 400;
+  font-size: 1.1em;
+  margin-bottom: 4px;
+}
+
+.about-qr {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 48px;
+}
+
+.about-qr figure {
+  margin: 0;
+  width: 180px;
+  text-align: center;
+}
+
+.about-qr figure img {
+  margin: 0 auto;
+  background: #fff; /* QR codes need a white quiet zone in dark mode too */
+}
+
+.about-qr figcaption strong {
+  font-weight: 400;
+  color: var(--primary);
+}
+
+/* Screenshot on the left, text on the right; stacked on narrow screens. */
+.about-works li p {
+  margin: 0;
+}
+
+.about-works li img {
+  display: block;
+  margin: 0;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.about-works li a:has(img) {
+  box-shadow: none;
+}
+
+@media (max-width: 600px) {
+  .about-works li {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
+
+/* Small status note after a project name, e.g. "待更新". */
+.about-tag {
+  margin-left: 8px;
+  padding: 1px 8px;
+  font-size: 0.7em;
+  color: var(--secondary);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  vertical-align: middle;
+}
