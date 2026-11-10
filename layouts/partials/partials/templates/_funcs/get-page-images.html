@@ -1,0 +1,5 @@
+{{- /* Hugo 0.146+ no longer strips the "partials/" prefix that the theme uses
+       when calling this helper, so local builds fail with "partial not found".
+       This shim forwards the prefixed name to the theme's real helper.
+       Older Hugo (the deploy pins 0.123.0) never reaches this file. */ -}}
+{{- return partial "templates/_funcs/get-page-images" . -}}

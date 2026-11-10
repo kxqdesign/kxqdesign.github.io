@@ -56,6 +56,10 @@ params:
       Knowing is not enough; we must apply. Willing is not enough; we must do.
       
   author: XQK
+  # The theme falls back to the removed site.Social when params.social is unset,
+  # which breaks builds on Hugo 0.146+. An empty entry keeps it on the supported path.
+  social:
+    twitter: ""
   # author: ["Me", "You"] # multiple authors
   defaultTheme: auto  # defaultTheme: light or  dark 
   disableThemeToggle: false
